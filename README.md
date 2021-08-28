@@ -1,4 +1,4 @@
-# DreamOS-Vmos
+# DreamOS
 My own custom operating system for Vmos pro!
 This rom (the 0.0.1a) is based on [AndnixSH's Android 5.1.1 Custom Rom](https://www.andnixsh.com/2020/09/vmos-pro-custom-roms-android-511-and.html?m=1)
 This rom has root, xposed, and Google play services preinstalled (Will remove Gapps in the future).
