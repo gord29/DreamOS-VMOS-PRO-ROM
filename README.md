@@ -2,6 +2,7 @@
 My own custom operating system for Vmos pro!
 This rom (the 0.0.1a) is based on [AndnixSH's Android 5.1.1 Custom Rom](https://www.andnixsh.com/2020/09/vmos-pro-custom-roms-android-511-and.html?m=1)
 This rom has root, xposed, and Google play services preinstalled (Will remove Gapps in the future).
+This is properly tested but with some ocassional bugs and crashes.
 # Installation
 -There are 2 versions of Vmos pro.
   + Global/Google Play Version-Not updated often, big in size(>100mb), but contains all roms and root/xposed files [Download to google play](https://play.google.com/store/apps/details?id=com.vmos.ggp)
