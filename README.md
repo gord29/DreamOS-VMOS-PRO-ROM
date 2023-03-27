@@ -4,9 +4,28 @@ This rom (the 0.0.1a) is based on [AndnixSH's Android 5.1.1 Custom Rom](https://
 This rom has root, xposed, and Google play services preinstalled (Will remove Gapps in the future).
 This is properly tested but with some ocassional bugs and crashes.
 # Installation
--There are 2 versions of Vmos pro.
-  + Global/Google Play Version-Not updated often, big in size(>100mb), but contains all roms and root/xposed files [Download to google play](https://play.google.com/store/apps/details?id=com.vmos.ggp)
-  + China Version-Updated, only some words are in chinese, small in size(26mb), but does not contain roms and root/xposed files (you need to download them). Also, they have their own community forum ([forum](https://bbs.vmos.cn/forum-49-1.html) or inside Vmos cn app). [Download](http://www.vmos.cn/product_center_vmospro.htm)
-- Now, to install custom roms, you can go to [HuskyDG's installation tutorial](https://github.com/HuskyDG/VMOSPro_ROM)
-#
-P.s this took me 1 week to build lol (mainly because of the custom launcher, custom bootanimation, and some crashes and bootloops [will never modify framework-res.apk again.])
+~~There are 2 versions of Vmos pro.~~ 
+
+UPDATE: Apparently, newer versions of VMOS have stricter restrictions when applying Custom ROMs. Use modded VMOS to use this ROM. HuskyDG's version is recommended [Link Here.](https://github.com/HuskyDG/VMOSPro_MOD)
+### Now, to install custom roms...
+*ATTENTION: Make sure to store the files on internal memory, not real SD Card because VMOS can't access SD Card. Your downloaded files are usally stored in /storage/emulated/0/download. Also make sure that your filename DOES NOT contain spaces as it will not install the rom and end with an error.*
+
+1. Open VMOS Pro, grant all permission if this is first time.
+2. Click on plus sign on theright hand of the screen
+3. Click on the 3 dot button on the corner of your screen
+4. There are 3 options, Rec the VM, Import local ROM and download remote ROM. On my ROM, you will need to select "Import local ROM"
+5. Go to the location where the ROM files are stored and select it 
+6. The ROM will now install and boot up. If it didn't or the Installation Fails, go back to the ATTENTION part then go back here. if it installs then good. if it still didn't, go submit it in issues.
+7. ???
+8. PROFIT!
+
+ note that if you have a legit VMOS, ya can't turn off Root and Xposed in settings without VIP. 
+ 
+ # Thanks
+ 
+ Thanks for using this crap! lol
+ 
+ If you have any problems, go submit it on [Issues](https://github.com/gord29/DreamOS-VMOS-PRO-ROM/issues) if none, have fun.
+ 
+ ciao
+
