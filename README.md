@@ -25,7 +25,9 @@ UPDATE: Apparently, newer versions of VMOS have stricter restrictions when apply
  
  Thanks for using this crap! lol
  
- If you have any problems, go submit it on [Issues](https://github.com/gord29/DreamOS-VMOS-PRO-ROM/issues) if none, have fun.
+ If you have any problems, go submit it on [Issues](https://github.com/gord29/DreamOS-VMOS-PRO-ROM/issues) 
+ 
+ if none, have fun.
  
  ciao
 
