@@ -21,6 +21,11 @@ UPDATE: Apparently, newer versions of VMOS have stricter restrictions when apply
 
  note that if you have a legit VMOS, ya can't turn off Root and Xposed in settings without VIP. 
  
+ 
+ ### note (APRIL 2023)
+ google is bs. it now always says "Your Device isn't Play Protect Certified." fix=dont use google play. will try to substitute it with microg+aurora store or smth idk. will do that in next update. for now, ignore that notif and dont open google play. f u google.
+ 
+ 
  # Thanks
  
  Thanks for using this crap! lol
