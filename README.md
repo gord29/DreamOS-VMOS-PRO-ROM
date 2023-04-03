@@ -36,6 +36,16 @@ UPDATE: Apparently, newer versions of VMOS have stricter restrictions when apply
  
  Thanks for using this crap! lol
  
+ Special thanks to:
+ 
+ - AndnixSH for the Base ROM
+ - Amir Zaidi for the RPL (Default Launcher in 0.1.1)
+ - LineageOS devs for the Jelly Browser (Default Browser in 0.1.1) (fuckin awesome browser)
+ - Google for the Play Services (even tho its bs because of Play Protect)
+ - microG team for new Play Services Implementation (Will add this in 0.1.1)
+ - YOU for using my crap!
+ 
+ 
  If you have any problems, go submit it on [Issues](https://github.com/gord29/DreamOS-VMOS-PRO-ROM/issues) 
  
  if none, have fun.
